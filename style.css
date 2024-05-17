@@ -107,7 +107,7 @@ h2 {
 /* Further adjustments for medium breakpoints */
 @media (min-width: 768px) {
     h2 {
-        font-size: 2.125rem;
+        font-size:2.125rem;
         font-weight: 700;
 
         /* Original size for MD screens and up */
